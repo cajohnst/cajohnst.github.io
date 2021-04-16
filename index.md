@@ -2,7 +2,7 @@
 layout: home
 title: What's A Chautauqua?
 description: A personal mood board turned public.
-background: '/img/bg-index.jpg'
+background: '/img/cycle_of_life.jpeg'
 ---
 
 # Your Average Digital Existential Chautauqua
