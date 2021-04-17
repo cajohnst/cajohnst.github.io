@@ -3,6 +3,12 @@ const gulp = require("gulp");
 
 // Copy third party libraries from /node_modules into /vendor
 gulp.task('vendor', function(cb) {
+  // jQuery
+  gulp.src([
+      './node_modules/jquery/dist/*',
+      '!./node_modules/jquery/dist/core.js'
+    ])
+    .pipe(gulp.dest('./assets/vendor/jquery'))
 
   // Start Bootstrap Clean Blog SCSS
   gulp.src([
@@ -14,6 +20,7 @@ gulp.task('vendor', function(cb) {
   gulp.src([
       './node_modules/startbootstrap-clean-blog/js/clean-blog.min.js',
       './node_modules/startbootstrap-clean-blog/js/jqBootstrapValidation.js'
+      './node_modules/startbootstrap-clean-blog/js/lightbox.js'
     ])
     .pipe(gulp.dest('./assets/vendor/startbootstrap-clean-blog/js'))
 
@@ -24,13 +31,6 @@ gulp.task('vendor', function(cb) {
       '!./node_modules/bootstrap/dist/css/bootstrap-reboot*'
     ])
     .pipe(gulp.dest('./assets/vendor/bootstrap'))
-
-  // jQuery
-  gulp.src([
-      './node_modules/jquery/dist/*',
-      '!./node_modules/jquery/dist/core.js'
-    ])
-    .pipe(gulp.dest('./assets/vendor/jquery'))
 
   // Font Awesome
   gulp.src([

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-background: '/img/personal-index.jpeg'
+background: '/img/large/personal-index.jpeg'
 ---
 
 I am a software developer turned digital nomad who is passionate about personal development, finance, minimalism, and acquiring and sharing knowledge freely.

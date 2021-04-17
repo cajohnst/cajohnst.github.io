@@ -1,0 +1,16 @@
+// Styling for a gallery
+
+.gallery {
+  margin: 10px 50px;
+}
+
+.gallery img {
+  transition: 1s;
+  padding: 10px;
+  width: 300px;
+}
+
+.gallery img:hover {
+  filter: grayscale(25%);
+  transform: scale(1.05);
+}
