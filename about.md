@@ -9,7 +9,13 @@ I graduated from the University of North Carolina at Chapel Hill in 2016, majori
     <i>Current Projects</i>
 </h2>
    ***The Buck Starts Here***
+
+
    ***Being and Energy***
+<h2>
+    <i>Personal Trading</i>
+</h2>
+
 <h2>
     <i>Consulting</i>
 </h2>
