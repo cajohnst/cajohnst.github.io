@@ -75,6 +75,52 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Proofs and Refutations: The Logic of Mathematical Discovery*** *- Imre Lakatos*
 
+***The Extended Phenotype*** *- Richard Dawkins*
+
+***Apology*** *- Plato*
+
+***A Farewell To Arms*** *- Ernest Hemingway*
+
+***A Hitchhiker's Guide To the Galaxy*** *- Douglas Adams*
+
+***How Not To Die*** *-Dr. Michael Greger*
+
+***Euthyphro*** *- Plato*
+
+***Kafka On The Shore*** *- Haruki Murakami*
+
+***Educated*** *- Tara Westover*
+
+***Phaedo*** *- Plato*
+
+***Meno*** *- Plato*
+
+***Improv(e) Your Conversations*** *- Patrick King*
+
+***Symposium*** *- Plato*
+
+***The Book of Hours*** *- Rainer Maria Rilke*
+
+***Love in the Time of Cholera*** *- Gabriel García Márquez*
+
+***Crying in H Mart*** *- Michelle Zauner*
+
+***The Words*** *- Jean Paul Sartre*
+
+***Republic*** *- Plato*
+
+***What I Talk About When I Talk About Running*** *- Haruki Murakami*
+
+***Medium Raw*** *- Anthony Bourdain*
+
+***Noise*** *-Daniel Kahneman*
+
+***There There*** *- Tommy Orange*
+
+***Physics*** *- Aristotle*
+
+***The Death of Ivan Ilyich*** *- Leo Tolstoy*
+
 <br>
 <br>
 

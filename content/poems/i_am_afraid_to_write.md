@@ -35,7 +35,7 @@ And believe it?\
 Aren't we all competing in the economy of attention?*
 
 >I fear that my prose will not compare to Proust (*it won't*)\
-or my philosophy to that of Sartre (*it certainly won't*)!\
+or my philosophy to that of Sartre (*it certainly won't!*)\
 I fear that I will never play a part in dismantling any system\
 (Or in reconstructing one)!\
 I fear that nothing I say will hold relevance\

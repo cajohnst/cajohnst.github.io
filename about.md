@@ -8,9 +8,8 @@ I graduated from the University of North Carolina at Chapel Hill in 2016, majori
 <h2>
     <i>Current Projects</i>
 </h2>
-</h3>
-   <i>The Buck Starts Here</i>
-   <i>Being and Energy</i>
+   ***The Buck Starts Here***
+   ***Being and Energy***
 <h2>
     <i>Consulting</i>
 </h2>
