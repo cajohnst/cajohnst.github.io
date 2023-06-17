@@ -4,6 +4,7 @@ title: The USD/JPY Carry-Trade Is Back On, But For How Long?
 date: 2023-02-24 09:00:00
 background: '/img/large/USDJPY_2023-02-23_16-27-31.png'
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 Greetings ladies and gents! I have been meaning to collect my thoughts on the curious case of the BoJ for a few weeks. As a global spectator, the Japanese economic situation stands out. Foreign investors have placed a direct challenge to the BoJ’s yield curve control policy, placing investors and the central bank in direct conflict, resulting in whipsaw trading in the FX markets. This kind of volatility has been difficult to navigate as a trend trader, so I have abstained from serious trading. I believe we now find ourselves in a situation with some foothold, where there is enough information to make a substantive enough picture for trading. The carry-trade is always an enticing opportunity as a trend trader. I find the current USD/JPY set up sufficient enough for consideration in the medium term.
 
@@ -29,7 +30,7 @@ We will start off with
 
 <div class="gallery">
           <!-- Chart -->
-          <a href=/img/large/USDJPY_2023-02-23_16-27-31.png alt="chart.png" data-lightbox="friends_in_bw" data-title="Mar-Nov 22 USD dominates. Nov 22-Jan 23 USD slides, JPY regains momentum on YCC cap increase. Feb 23-Present USD consolidation, ‘Higher for Longer’ Fed stance becomes a reality. March 23-??">
+          <a href=/img/large/USDJPY_2023-02-23_16-27-31.png alt="chart.png" data-lightbox="charts" data-title="Mar-Nov 22 USD dominates. Nov 22-Jan 23 USD slides, JPY regains momentum on YCC cap increase. Feb 23-Present USD consolidation, ‘Higher for Longer’ Fed stance becomes a reality. March 23-??">
           <img src="/img/large/USDJPY_2023-02-23_16-27-31.png" alt="chart.png">
           </a>
 </div>
