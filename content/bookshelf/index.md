@@ -7,10 +7,112 @@ background: '/img/large/loose_rocks_ahead.jpeg'
     <i>2023 reads</i>
 </h2>
 
+***What is Life?*** *- Erwin Schrödinger*
+
+***Margin of Safety*** *- Seth Klarman*
+
+***The Intelligent Investor*** *-Benjamin Graham*
+
+***The Little Book on Common Sense Investing*** *- John Bogle*
+
+***One Hundred Years of Solitude*** *- Gabriel García Márquez*
+
+***The History of Statistics: The Measurement of Uncertainty before 1900*** *- Stephen Stigler*
+
+***Phenomenology of Perception*** *- Maurice Merleau-Ponty*
+
+***The Order of Things*** *- Michel Foucault*
+
+***The History of Sexuality*** *- Michel Foucault*
+
+***The Selfish Gene*** *- Richard Dawkins*
+
+***The Vital Question*** *- Nick Lane*
+
+***Capital Gains, Minimal Taxes*** *- Kaye Thomas*
+
+***Discipline and Punish*** *- Michel Foucault*
+
+***A Lover's Discourse: Fragments*** *- Roland Barthes*
+
+
+
+<br>
 <h2>
     <i>2022 reads</i>
 </h2>
 
+***The Elegant Universe*** *- Brian Green*
+
+***The Social Contract*** *— Jean Jacques Rousseau*
+
+***On Food and Cooking*** *- Harold McGee*
+
+***Ethics*** *- Baruch Spinoza*
+
+***Novum Organum*** *- Francis Bacon*
+
+***Crime and Punishment*** *- Fyodor Dostoevsky*
+
+***An Essay Concerning Human Understanding*** *- John Locke*
+
+***In Cold Blood*** *- Truman Capote*
+
+***On the Taboo Against Knowing Who You Are*** *- Alan Watts*
+
+***A Treatise of Human Nature*** *- David Hume*
+
+***An Enquiry Concerning Human Understanding*** *- David Hume*
+
+***The Theory of Moral Sentiments*** *- Adam Smith*
+
+***Fear and Trembling*** *- Søren Kierkegaard*
+
+***On Liberty*** *- John Stuart Mill*
+
+***Tractatus Logico-Philosophicus*** *- Ludwig Wittgenstein*
+
+***The Cosmic Landscape*** *- Leonard Susskind*
+
+***The Good Gut*** *- Erica and Justin Sonneburg*
+
+***On the Genealogy of Morality*** *- Friedrich Nietzche*
+
+***The Second Sex*** *- Simone de Beauvoir*
+
+***The Stranger*** *- Albert Camus*
+
+***The Phenomenology of Spirit*** *- G.W.F Hegel*
+
+***Critique of Pure Reason*** *- Immanuel Kant*
+
+***Critique of the Power of Judgment*** *- Immanuel Kant*
+
+***Existentialism is a Humanism*** *- Jean Paul Sartre*
+
+***The Myth of Sisyphus*** *- Albert Camus*
+
+***Thus Spoke Zarathustra*** *- Friedrich Nietzche*
+
+***Logical Investigations*** *- Edmund Husserl*
+
+***Being and Time*** *- Martin Heidegger*
+
+***Cartesian Meditations*** *- Edmund Husserl*
+
+***Being and Nothingness*** *- Jean Paul Sartre*
+
+***Philisophical Investigations*** *- Ludwig Wittgenstein*
+
+***The Ethics of Ambiguity*** *- Simone de Beauvoir*
+
+***The History of the Calculus and its Conceptual Development*** *- Carl Boyer*
+
+***Parmenides*** *- Plato*
+
+***War and Peace*** *- Leo Tolstoy*
+
+<br>
 <h2>
 
     <i>2021 reads</i>
@@ -130,7 +232,6 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The Death of Ivan Ilyich*** *- Leo Tolstoy*
 
-<br>
 <br>
 
 <h2>
