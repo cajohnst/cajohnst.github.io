@@ -29,8 +29,8 @@ We will start off with
 
 <div class="gallery">
           <!-- Chart -->
-          <a href=./img/large/USDJPY_2023-02-23_16-27-31.png alt="chart.png" data-lightbox="friends_in_bw" data-title="Mar-Nov 22 USD dominates. Nov 22-Jan 23 USD slides, JPY regains momentum on YCC cap increase. Feb 23-Present USD consolidation, ‘Higher for Longer’ Fed stance becomes a reality. March 23-??">
-          <img src="./img/large/USDJPY_2023-02-23_16-27-31.png" alt="chart.png">
+          <a href=/img/large/USDJPY_2023-02-23_16-27-31.png alt="chart.png" data-lightbox="friends_in_bw" data-title="Mar-Nov 22 USD dominates. Nov 22-Jan 23 USD slides, JPY regains momentum on YCC cap increase. Feb 23-Present USD consolidation, ‘Higher for Longer’ Fed stance becomes a reality. March 23-??">
+          <img src="/img/large/USDJPY_2023-02-23_16-27-31.png" alt="chart.png">
           </a>
 </div>
 
@@ -42,52 +42,50 @@ The path forward for the BoJ is less than ideal. Hard-nosed yield curve control 
 
 <div class="gallery">
             <!-- bbq chicken on french-->
-            <a href=./img/large/bbq_chicken_on_french.jpeg alt="bbq-chicken-on-french.jpeg" data-lightbox="melts" data-title="BBQ Chicken on French">
-            <img src="./img/small/bbq_chicken_on_french.jpeg" alt="bbq-chicken-on-french.jpeg">
+            <a href=/img/large/JPY-Gov-Bonds-Breach-Yield-Cap.png alt="JPY-Gov-Bonds-Breach-Yield-Cap" data-lightbox="charts" data-title="(Chart ripped from Reuters <3)-The BoJ has been forced into outright bond purchases to defend its YCC policy in recent months at an unsustainable rate. In January alone, it purchased $175 Billion in JGB, and now, once again, investors are knocking on the door of the BOJ’s 0.5% yield cap. The Fed is faced with one of the strongest labor markets in decades. Their concern is that prices will continue to spiral as long as wage growth remains high. Prior to the Feb. 3 jobs report, the market had priced in interest rate cuts by the end of the year. Now, it seems likely the Fed will have to maintain a ‘higher for longer’ policy to combat strong labor demand.">
+            <img src="/img/large/JPY-Gov-Bonds-Breach-Yield-Cap.png" alt="JPY-Gov-Bonds-Breach-Yield-Cap">
             </a>
 </div>
-(Chart ripped from Reuters <3)-The BoJ has been forced into outright bond purchases to defend its YCC policy in recent months at an unsustainable rate. In January alone, it purchased $175 Billion in JGB, and now, once again, investors are knocking on the door of the BOJ’s 0.5% yield cap.
-The Fed is faced with one of the strongest labor markets in decades. Their concern is that prices will continue to spiral as long as wage growth remains high. Prior to the Feb. 3 jobs report, the market had priced in interest rate cuts by the end of the year. Now, it seems likely the Fed will have to maintain a ‘higher for longer’ policy to combat strong labor demand.
 
 Since the jobs report released on Feb. 3, FX markets have been dominated by dollar strength. The DXY channel has been slowly but steadily rising, giving one the sense of some resistance by traders to reverse recent course.
 
-Cases for a Stronger Dollar / Weaker Yen
-What would qualify the continuance of the ‘higher for longer’ channel?
+<h4>Cases for a Stronger Dollar / Weaker Yen</h4>
+What would qualify the continuance of the <i>‘higher for longer’</i> channel?
 
-BoJ Governor Kuroda defends yield control up to the end of his term in April;
+* BoJ Governor Kuroda defends yield control up to the end of his term in April;
 
-New BoJ Governor Ueda is more dovish than markets anticipate him to be;
+* New BoJ Governor Ueda is more dovish than markets anticipate him to be;
 
-A lower Japanese inflation reading;
+* A lower Japanese inflation reading;
 
-Core PCE Services ex-Housing remains resistant;
+* Core PCE Services ex-Housing remains resistant;
 
-Any (CPI, PPI, PCE) inflation index indicating that price increases are settling (and not slowing) above the Fed’s 2% target rate;
+* Any (CPI, PPI, PCE) inflation index indicating that price increases are settling (and not slowing) above the Fed’s 2% target rate;
 
-Discussions of a 50 basis point hike leading up to, or multiple 25 basis point hikes after, the March FOMC meeting.
+* Discussions of a 50 basis point hike leading up to, or multiple 25 basis point hikes after, the March FOMC meeting.
 
-Cases for Stronger Yen / Weaker Dollar
-What would qualify as a meaningful disruption to the ‘higher for longer’ channel?
+<h4> Cases for Stronger Yen / Weaker Dollar </h4>
+What would qualify as a meaningful disruption to the <i>‘higher for longer’</i> channel?
 
-BoJ ends yield curve control;
+* BoJ ends yield curve control;
 
-BoJ raises short-term deposit rate above 0;
+* BoJ raises short-term deposit rate above 0;
 
-Core PCE Services ex-Housing falls dramatically;
+* Core PCE Services ex-Housing falls dramatically;
 
-January NFP report is revised down, February report nullifies some of the January reports potency;
+* January NFP report is revised down, February report nullifies some of the January reports potency;
 
-The Fed maintains data-driven language, which comes off dovish.
+* The Fed maintains data-driven language, which comes off dovish.
 
-The Case For Now
+<h4> The Case For Now </h4>
 For the meantime, the carry-trade is back on. USD/JPY is testing 135. We have witnessed an aggressive move up, and if nothing changes, this will likely continue into March. I see a retest of the 138 level as a possibility, 140 if US data continues to be strong. On the other hand, the cases for a stronger yen/weaker dollar present the opportunity for a dramatic slide. To trade under these conditions, I will be placing bets with tight stops, which will be tricky because I want to capitalize on the carry-trade while minimizing my risk of loss against a slide. And if the slide does come, I will look to participate in it. There are a lot of events to pay close attention to in the coming month for the USD/JPY pair. I will continue to monitor the Fed and BoJ stances, US and Japanese inflation reports, and US jobs reports. Given the amount of recent volatility, there is a lot of opportunity here to profit in either direction with intelligent betting strategies.
 
-Upcoming Events affecting USD/JPY:
+<h4> Upcoming Events affecting USD/JPY: </h4>
 
-US PCE Price Index, Core PCE Price Index—2.24
+* US PCE Price Index, Core PCE Price Index—2.24
 
-JP Inflation—2.24
+* JP Inflation—2.24
 
-US Durable Goods Orders—2.27
+* US Durable Goods Orders—2.27
 
-US ISM Manufacturing PMI—3.1
+* US ISM Manufacturing PMI—3.1
