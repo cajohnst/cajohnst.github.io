@@ -37,7 +37,7 @@ USD/JPY Looking Forward
 
 The path forward for the BoJ is less than ideal. Hard-nosed yield curve control has made the BoJ the last dovish holdout among central banks. The bond market, particularly foreign investors, are shorting JGBs, speculating that the incoming governor Kazuo Ueda will do away with yield curve control altogether. In January, the BoJ purchased more JGBs, and thus added more liquidity to global financial markets, than the Fed, ECB, and the BoE took out of it!1 This is certainly contradicting the effectiveness of the tightening policies by other central banks for the time being.
 
-![jpy-gov-bonds-breach-yield-cap.png](/img/large/JPY-Gov-Bonds-Breach-Yield-Cap.png)
+<img src=/img/large/JPY-Gov-Bonds-Breach-Yield-Cap.png alt="jpy-gov-bonds-breach-yield-cap.png" width="100%" height="200"/>
 *(Chart ripped from Reuters <3)-The BoJ has been forced into outright bond purchases to defend its YCC policy in recent months at an unsustainable rate. In January alone, it purchased $175 Billion in JGB, and now, once again, investors are knocking on the door of the BOJ’s 0.5% yield cap. The Fed is faced with one of the strongest labor markets in decades. Their concern is that prices will continue to spiral as long as wage growth remains high. Prior to the Feb. 3 jobs report, the market had priced in interest rate cuts by the end of the year. Now, it seems likely the Fed will have to maintain a ‘higher for longer’ policy to combat strong labor demand.*
 
 Since the jobs report released on Feb. 3, FX markets have been dominated by dollar strength. The DXY channel has been slowly but steadily rising, giving one the sense of some resistance by traders to reverse recent course.
