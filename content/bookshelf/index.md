@@ -11,7 +11,7 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Margin of Safety*** *- Seth Klarman*
 
-***The Intelligent Investor*** *-Benjamin Graham*
+***The Intelligent Investor*** *- Benjamin Graham*
 
 ***The Little Book on Common Sense Investing*** *- John Bogle*
 
@@ -82,7 +82,7 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The Stranger*** *- Albert Camus*
 
-***The Phenomenology of Spirit*** *- G.W.F Hegel*
+***The Phenomenology of Spirit*** *- G.W.F. Hegel*
 
 ***Critique of Pure Reason*** *- Immanuel Kant*
 
