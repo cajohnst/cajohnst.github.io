@@ -4,7 +4,6 @@ title: The USD/JPY Carry-Trade Is Back On, But For How Long?
 date: 2023-02-24 09:00:00
 background: '/img/large/USDJPY_2023-02-23_16-27-31.png'
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 Greetings ladies and gents! I have been meaning to collect my thoughts on the curious case of the BoJ for a few weeks. As a global spectator, the Japanese economic situation stands out. Foreign investors have placed a direct challenge to the BoJ’s yield curve control policy, placing investors and the central bank in direct conflict, resulting in whipsaw trading in the FX markets. This kind of volatility has been difficult to navigate as a trend trader, so I have abstained from serious trading. I believe we now find ourselves in a situation with some foothold, where there is enough information to make a substantive enough picture for trading. The carry-trade is always an enticing opportunity as a trend trader. I find the current USD/JPY set up sufficient enough for consideration in the medium term.
 
@@ -28,8 +27,8 @@ We will start off with
 
 * February 3, 23-Present—A softer CPI reading is not enough to deter investors, economic data remains strong. The overtly optimistic market sentiment, which projected Fed rate cuts by the end of the year, has evaporated overnight. In the weeks following, the market has slowly attuned itself to the Fed’s ‘higher for longer’ projections.
 
-![Chart.png](/img/large/USDJPY_2023-02-23_16-27-31.png)
-*"Mar-Nov 22 USD dominates. Nov 22-Jan 23 USD slides, JPY regains momentum on YCC cap increase. Feb 23-Present USD consolidation, ‘Higher for Longer’ Fed stance becomes a reality. March 23-??*
+<img class="img-fluid" src="/img/large/USDJPY_2023-02-23_16-27-31.png" alt="USDJPY_2023-02-23_16-27-31.png"/>
+*Mar-Nov 22 USD dominates. Nov 22-Jan 23 USD slides, JPY regains momentum on YCC cap increase. Feb 23-Present USD consolidation, ‘Higher for Longer’ Fed stance becomes a reality. March 23-??*
 
 <h4>
 USD/JPY Looking Forward
@@ -37,7 +36,7 @@ USD/JPY Looking Forward
 
 The path forward for the BoJ is less than ideal. Hard-nosed yield curve control has made the BoJ the last dovish holdout among central banks. The bond market, particularly foreign investors, are shorting JGBs, speculating that the incoming governor Kazuo Ueda will do away with yield curve control altogether. In January, the BoJ purchased more JGBs, and thus added more liquidity to global financial markets, than the Fed, ECB, and the BoE took out of it!1 This is certainly contradicting the effectiveness of the tightening policies by other central banks for the time being.
 
-<img src=/img/large/JPY-Gov-Bonds-Breach-Yield-Cap.png alt="jpy-gov-bonds-breach-yield-cap.png" width="100%" height="200"/>
+<img class="img-fluid" src="/img/large/JPY-Gov-Bonds-Breach-Yield-Cap.png" alt="jpy-gov-bonds-breach-yield-cap.png"/>
 *(Chart ripped from Reuters <3)-The BoJ has been forced into outright bond purchases to defend its YCC policy in recent months at an unsustainable rate. In January alone, it purchased $175 Billion in JGB, and now, once again, investors are knocking on the door of the BOJ’s 0.5% yield cap. The Fed is faced with one of the strongest labor markets in decades. Their concern is that prices will continue to spiral as long as wage growth remains high. Prior to the Feb. 3 jobs report, the market had priced in interest rate cuts by the end of the year. Now, it seems likely the Fed will have to maintain a ‘higher for longer’ policy to combat strong labor demand.*
 
 Since the jobs report released on Feb. 3, FX markets have been dominated by dollar strength. The DXY channel has been slowly but steadily rising, giving one the sense of some resistance by traders to reverse recent course.
