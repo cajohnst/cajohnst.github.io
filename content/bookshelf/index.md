@@ -283,6 +283,6 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 <br>
 
 <h2 class="nav-item">
-      <a class="nav-link" href="{{ "./content" | relative_url }}">Back to Content
+      <a class="nav-link" href="{{ "./content" | relative_url }}">Back to Musings
       </a>
 </h2>
