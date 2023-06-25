@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feature Trade: USD/CAD, Until the Data Prove Otherwise"
+title: "Feature Trade: USD/CAD, Until the Data Proves Otherwise"
 date: 2022-12-08 09:00:00
 background: '/img/large/12-08-22-usdcad.png'
 ---

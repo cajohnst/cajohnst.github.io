@@ -35,18 +35,18 @@ And believe it?\
 Aren't we all competing in the economy of attention?*
 
 >I fear that my prose will not compare to Proust (*it won't*)\
-or my philosophy to that of Sartre (*it certainly won't!*)\
-I fear that I will never play a part in dismantling any system\
-(Or in reconstructing one)!\
+or my philosophy to that of Sartre (*it certainly won't*)\
+I fear that I will never play a significant part in dismantling any system\
+(or in reconstructing one)\
 I fear that nothing I say will hold relevance\
-As timeless as passages from Thoreau, Baldwin, or Kafka.\
+as passages from Thoreau, Baldwin, or Kafka.\
 I fear that I will never make anything of writing.
 
 >I worry about conveying ideas simply.\
 I worry about omitting alternate points of view.\
 I worry about organizational and structural points.\
 I worry about stating something that has previously been\
-Stated succinctly by someone else.
+stated succinctly by someone else.
 
 >I fear conflict.\
 I fear resolution.\
