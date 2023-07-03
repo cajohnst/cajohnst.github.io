@@ -39,7 +39,7 @@ or my philosophy to that of Sartre (*it certainly won't*)\
 I fear that I will never play a significant part in dismantling any system\
 (or in reconstructing one)\
 I fear that nothing I say will hold relevance\
-as passages from Thoreau, Baldwin, or Kafka.\
+as passages from Thoreau, Baldwin, or Kafka do.\
 I fear that I will never make anything of writing.
 
 >I worry about conveying ideas simply.\
