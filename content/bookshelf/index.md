@@ -31,9 +31,15 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Capital Gains, Minimal Taxes*** *- Kaye Thomas*
 
+***The Creation: An Appeal to Save Life on Earth*** *- Edward Wilson*
+
 ***Discipline and Punish*** *- Michel Foucault*
 
 ***A Lover's Discourse: Fragments*** *- Roland Barthes*
+
+***The Words*** *- Jean-Paul Sartre*
+
+***The 2020s, the Golden Age of Design and Redesign*** *- David Houle and James Fathers*
 
 
 
