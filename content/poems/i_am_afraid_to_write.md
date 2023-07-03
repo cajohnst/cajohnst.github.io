@@ -1,7 +1,7 @@
 ---
 layout: page
 title: I Am Afraid To Write
-background: '/img/large/i_am_afraid_to_write.jpeg'
+background: '/img/large/I_am_afraid_to_write.jpeg'
 ---
 
 <h4> I Am Afraid To Write - <i>Inspired by my inability to write.</i></h4>
