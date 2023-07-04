@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-background: '/img/large/carter-7.jpg'
+background: '/img/large/carter-6.jpg'
 ---
 I am an analyst, philosopher, and writer focused on deciphering moral ecologies, then molding new ones—first, for the individual finding their footing within greater systems: within themselves, within their communities, within the world, and secondly, in order to consider the philosophical grounds for a shift in our moral impetus from individual freedom to collective ecological responsibility. This shift will be necessary in designing a sustainable future for human beings.
 <br><br>
