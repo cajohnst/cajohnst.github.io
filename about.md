@@ -13,4 +13,4 @@ I was born in California, but raised in North Carolina. I attended the Universit
 <br><br>
 I currently live in Brooklyn, New York.
 <hr>
-<img class="img-fluid" src="/img/small/carter-10.jpg" alt="carter.jpg"/>
+<img class="img-fluid" src="/img/small/carter-10.jpeg" alt="carter.jpg"/>

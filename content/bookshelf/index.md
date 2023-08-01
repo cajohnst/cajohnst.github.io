@@ -41,6 +41,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The 2020s, the Golden Age of Design and Redesign*** *- David Houle and James Fathers*
 
+***Gift From the Sea*** *- Anne Morrow Lindbergh*
+
 
 
 <br>
