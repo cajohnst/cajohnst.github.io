@@ -43,6 +43,10 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Gift From the Sea*** *- Anne Morrow Lindbergh*
 
+***Eco-Phenomenology: A Return to the Earth Itself*** *- Ted Toadvine and Charles Brown*
+
+***Animal Liberation*** *- Peter Singer*
+
 
 
 <br>
