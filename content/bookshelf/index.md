@@ -47,6 +47,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Animal Liberation*** *- Peter Singer*
 
+***The Body Keeps the Score*** *-Bessel Van der Kolk*
+
 
 
 <br>
