@@ -47,9 +47,11 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Animal Liberation*** *- Peter Singer*
 
-***The Body Keeps the Score*** *- Bessel Van der Kolk*
+***The Body Keeps the Score*** *- Bessel van der Kolk*
 
 ***Conserving Natural Values*** *- Holmes Rolston III*
+
+***The Phenomenon of Life: Toward a Philosophical Biology*** *-Hans Jonas*
 
 
 
