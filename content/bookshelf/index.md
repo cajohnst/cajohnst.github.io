@@ -53,6 +53,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The Phenomenon of Life: Toward a Philosophical Biology*** *-Hans Jonas*
 
+***The Picture of Dorian Gray*** *- Oscar Wilde*
+
 
 
 <br>
