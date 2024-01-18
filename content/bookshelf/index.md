@@ -4,6 +4,13 @@ title: Bookshelf
 background: '/img/large/loose_rocks_ahead.jpeg'
 ---
 <h2>
+    <i>2024 reads</i>
+</h2>
+***The Body Keeps the Score*** *- Bessel van der Kolk*
+
+***Complex PTSD: From Surviving to Thriving*** *- Pete Walker*
+<br>
+<h2>
     <i>2023 reads</i>
 </h2>
 
@@ -51,11 +58,15 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Conserving Natural Values*** *- Holmes Rolston III*
 
-***The Phenomenon of Life: Toward a Philosophical Biology*** *-Hans Jonas*
+***The Phenomenon of Life: Toward a Philosophical Biology*** *- Hans Jonas*
 
 ***The Picture of Dorian Gray*** *- Oscar Wilde*
 
 ***The Phenomenology of Perception*** *- Maurice Merleau-Ponty*
+
+***The Great Gatsby*** *- F. Scott Fitzgerald*
+
+***The Phenomenon of Life: Toward a Philosophical Biology*** *- Hans Jonas*
 
 
 
