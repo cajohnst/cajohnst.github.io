@@ -6,9 +6,13 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 <h2>
     <i>2024 reads</i>
 </h2>
+
 ***The Body Keeps the Score*** *- Bessel van der Kolk*
 
 ***Complex PTSD: From Surviving to Thriving*** *- Pete Walker*
+
+***Empire*** *- Gore Vidal*
+
 <br>
 <h2>
     <i>2023 reads</i>
