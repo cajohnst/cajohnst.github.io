@@ -13,6 +13,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Empire*** *- Gore Vidal*
 
+***The Way of Zen*** *- Alan Watts*
+
 <br>
 <h2>
     <i>2023 reads</i>
