@@ -15,6 +15,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The Way of Zen*** *- Alan Watts*
 
+***The Order of Things*** *- Michel Foucault*
+
 <br>
 <h2>
     <i>2023 reads</i>
