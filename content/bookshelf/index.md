@@ -17,6 +17,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The Order of Things*** *- Michel Foucault*
 
+***A Comedy of Nobodies: A Collection of Stories*** *- Baron Ryan*
+
 <br>
 <h2>
     <i>2023 reads</i>
