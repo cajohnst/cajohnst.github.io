@@ -21,9 +21,9 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***A Streetcar Named Desire*** *- Tennessee Williams*
 
-***Of Mice and Men*** *-John Steinbeck*
+***Of Mice and Men*** *- John Steinbeck*
 
-***I Want a Better Catastrophe*** *-Andrew Boyd*
+***I Want a Better Catastrophe*** *- Andrew Boyd*
 
 
 <br>
