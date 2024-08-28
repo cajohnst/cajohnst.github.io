@@ -21,6 +21,11 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***A Streetcar Named Desire*** *- Tennessee Williams*
 
+***Of Mice and Men*** *-John Steinbeck*
+
+***I Want a Better Catastrophe*** *-Andrew Boyd*
+
+
 <br>
 <h2>
     <i>2023 reads</i>
