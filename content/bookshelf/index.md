@@ -25,6 +25,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***I Want a Better Catastrophe*** *- Andrew Boyd*
 
+***Franny and Zooey*** *- J.D. Salinger*
+
 
 <br>
 <h2>
