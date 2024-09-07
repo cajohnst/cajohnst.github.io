@@ -27,6 +27,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Franny and Zooey*** *- J.D. Salinger*
 
+***Thirty Years that Shook Physics: The Story of Quantum Theory*** *- George Gamow*
+
 
 <br>
 <h2>
