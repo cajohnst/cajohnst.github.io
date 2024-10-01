@@ -29,6 +29,10 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Thirty Years that Shook Physics: The Story of Quantum Theory*** *- George Gamow*
 
+***United States: Essays 1952-1992*** *- Gore Vidal*
+
+***An Inquiry into the Nature and Causes of the Wealth of Nations*** *- Adam Smith*
+
 
 <br>
 <h2>
