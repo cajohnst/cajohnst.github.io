@@ -33,6 +33,12 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***An Inquiry into the Nature and Causes of the Wealth of Nations*** *- Adam Smith*
 
+***The Value of a Whale*** *- Adrienne Buller*
+
+***Pride and Prejudice*** *- Jane Austen*
+
+***The Vital Question*** *- Nick Lane*
+
 
 <br>
 <h2>
