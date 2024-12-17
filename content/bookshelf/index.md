@@ -39,6 +39,26 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The Vital Question*** *- Nick Lane*
 
+***Mastering Object Oriented Programming*** *- Steven F. Lott*
+
+***Make Your Own Way: An Individual's Guide to Fulfillment*** *- Matthew Dellaero*
+
+***The Physical Principles of the Quantum Theory*** *- Werner Heisenberg*
+
+***Henry IV, Part I*** *- Shakespeare*
+
+***The Gay Science*** *- Friedrich Nietzche*
+
+***QED: The Strange Theory of Light and Matter*** *- Richard P. Feyman*
+
+***Henry IV, Part II*** *- Shakespeare*
+
+***Henry V*** *- Shakespeare*
+
+***Horizontal Vertigo: A City Called Mexico*** *- Juan Villoro*
+
+***The Comedy of Errors*** *- Shakespeare*
+
 
 <br>
 <h2>

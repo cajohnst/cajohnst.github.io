@@ -58,7 +58,7 @@ But what is reality, don’t I have a right to be curious?
 
 >Perhaps it was a flight much like this one, or maybe just a thought,\
 You heard your captain speak to you as mine does now,\
-“thirty minutes to landing.” To board again or to go home, I don’t know.
+“Thirty minutes to landing.” To board again or to go home, I don’t know.
 
 >*Thoughts aren’t decisions, but thoughts can be warm. Merry Christmas.*
 
