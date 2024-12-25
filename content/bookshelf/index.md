@@ -59,6 +59,14 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The Comedy of Errors*** *- Shakespeare*
 
+***Love's Labor's Lost*** *- Shakespeare*
+
+***Physics and Philosophy — The Revolution in Modern Science*** *- Werner Heisenberg*
+
+***Macbeth*** *- Shakespeare*
+
+***Measure for Measure*** *- Shakespeare*
+
 
 <br>
 <h2>
