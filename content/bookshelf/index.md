@@ -4,6 +4,15 @@ title: Bookshelf
 background: '/img/large/loose_rocks_ahead.jpeg'
 ---
 <h2>
+    <i>2025 reads</i>
+</h2>
+
+***Much Ado About Nothing*** *- Shakespeare*
+
+***Othello*** *- Shakespeare*
+
+<br>
+<h2>
     <i>2024 reads</i>
 </h2>
 
@@ -66,6 +75,13 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 ***Macbeth*** *- Shakespeare*
 
 ***Measure for Measure*** *- Shakespeare*
+
+***The Merchant of Venice*** *- Shakespeare*
+
+***The Merry Wives of Windsor*** *- Shakespeare*
+
+***A Midsummer Night's Dream*** *- Shakespeare*
+
 
 
 <br>
