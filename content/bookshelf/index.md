@@ -11,6 +11,50 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Othello*** *- Shakespeare*
 
+***Pericles, Prince of Tyre*** *- Shakespeare*
+
+***Richard II*** *- Shakespeare*
+
+***Richard III*** *- Shakespeare*
+
+***Romeo and Juliet*** *- Shakespeare*
+
+***The Taming of the Shrew*** *- Shakespeare*
+
+***The Tempest*** *- Shakespeare*
+
+***Timon of Athens*** *- Shakespeare*
+
+***Titus Andronicus*** *- Shakespeare*
+
+***Troilus and Cressida*** *- Shakespeare*
+
+***Twelfth Night*** *- Shakespeare*
+
+***The Two Gentleman of Verona*** *- Shakespeare*
+
+***The Two Noble Kinsmen*** *- Shakespeare*
+
+***The Winter's Tale*** *- Shakespeare*
+
+***The Lover's Complaint*** *- Shakespeare*
+
+***The Passionate Pilgrim*** *- Shakespeare*
+
+***The Phoenix and the Turtle*** *-Shakespeare*
+
+***The Rape of Lucrece*** *- Shakespeare*
+
+***Venus and Adonis*** *- Shakespeare*
+
+***Henry VI Part I*** *- Shakespeare*
+
+***El Amor en los Tiempos de Cólera*** *- Gabriel Garcia Marquez*
+
+***Henry VI Part II*** *- Shakespeare*
+
+***Henry VI Part III*** *- Shakespeare*
+
 <br>
 <h2>
     <i>2024 reads</i>
