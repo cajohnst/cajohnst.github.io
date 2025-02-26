@@ -55,6 +55,30 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Henry VI Part III*** *- Shakespeare*
 
+***Henry VIII*** *- Shakespeare*
+
+***King John*** *- Shakespeare*
+
+***Julius Caesar*** *- Shakespeare*
+
+***King Lear*** *- Shakespeare*
+
+***Coriolanus*** *- Shakespeare*
+
+***Cymbeline*** *- Shakespeare*
+
+***Hamlet*** *- Shakespeare*
+
+***As You Like It*** *- Shakespeare*
+
+***All's Well that Ends Well*** *- Shakespeare*
+
+***Antony and Cleopatra*** *- Shakespeare*
+
+***Sonnets*** *- Shakespeare*
+
+***The Eden Project: In Search of the Magical Other*** *- James Hollis*
+
 <br>
 <h2>
     <i>2024 reads</i>
@@ -102,7 +126,7 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The Gay Science*** *- Friedrich Nietzche*
 
-***QED: The Strange Theory of Light and Matter*** *- Richard P. Feyman*
+***QED: The Strange Theory of Light and Matter*** *- Richard P. Feynman*
 
 ***Henry IV, Part II*** *- Shakespeare*
 
