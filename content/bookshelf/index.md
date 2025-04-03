@@ -79,6 +79,16 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The Eden Project: In Search of the Magical Other*** *- James Hollis*
 
+***Under Saturn's Shadow: The Wounding and Healing of Men*** *- James Hollis*
+
+***The Audacity of Hope: Thoughts on Reclaiming the American Dream*** *- Barack Obama*
+
+***Childhood and Society*** *- Erik Erikson*
+
+***Memories, Dreams, Reflections*** *- Carl Jung*
+
+***The Essential Jung*** *- Carl Jung, selected and introduced by Anthony Storr*
+
 <br>
 <h2>
     <i>2024 reads</i>
