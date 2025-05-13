@@ -89,6 +89,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The Essential Jung*** *- Carl Jung, selected and introduced by Anthony Storr*
 
+***East of Eden*** *- John Steinbeck*
+
 <br>
 <h2>
     <i>2024 reads</i>
