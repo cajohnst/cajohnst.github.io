@@ -91,6 +91,10 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***East of Eden*** *- John Steinbeck*
 
+***Physics and Philosophy - The Revolution in Modern Science*** *- Werner Heisenberg*
+
+***QED: The Strange Theory of Light and Matter*** *- Richard P. Feynman*
+
 <br>
 <h2>
     <i>2024 reads</i>
