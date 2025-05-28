@@ -95,6 +95,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***QED: The Strange Theory of Light and Matter*** *- Richard P. Feynman*
 
+***The Adventures of Huckleberry Finn*** *- Mark Twain*
+
 <br>
 <h2>
     <i>2024 reads</i>
