@@ -97,6 +97,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The Adventures of Huckleberry Finn*** *- Mark Twain*
 
+***Statistical Thermodynamics*** *- Erwin Schrödinger*
+
 <br>
 <h2>
     <i>2024 reads</i>
