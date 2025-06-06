@@ -99,6 +99,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Statistical Thermodynamics*** *- Erwin Schrödinger*
 
+***The Physical Principles of the Quantum Theory*** *- Werner Heisenberg*
+
 <br>
 <h2>
     <i>2024 reads</i>
