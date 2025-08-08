@@ -105,6 +105,10 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The Principles of Statistical Mechanics*** *- Richard C. Tolman*
 
+***Capitalism and Freedom*** *- Milton Friedman*
+
+***Mythos*** *- Stephen Fry*
+
 <br>
 <h2>
     <i>2024 reads</i>
