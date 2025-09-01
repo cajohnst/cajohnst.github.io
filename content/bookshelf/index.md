@@ -109,6 +109,10 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Mythos*** *- Stephen Fry*
 
+***James*** *- Percival Everett*
+
+***Understanding Human Nature*** *- Alfred Adler*
+
 <br>
 <h2>
     <i>2024 reads</i>
