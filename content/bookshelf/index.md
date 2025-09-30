@@ -113,6 +113,18 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Understanding Human Nature*** *- Alfred Adler*
 
+***The Storytelling Animal: How Stories Make Us Human*** *- Jonathan Gottschall*
+
+***A General Introduction to Psychoanalysis*** *- Sigmund Freud*
+
+***Civilization and Its Contents*** *- Sigmund Freud*
+
+***The Story Paradox: How Our Love of Storytelling Builds Societies and Tears them Down*** *- Jonathan Gottschall*
+
+***Poetics*** *- Aristotle*
+
+***The Eden Project*** *- James Hollis*
+
 <br>
 <h2>
     <i>2024 reads</i>
@@ -376,7 +388,7 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Giovanni's Room*** *- James Baldwin*
 
-***Thinking Fast and Slow*** *- Daniel Kahneman (Second Read)*
+***Thinking Fast and Slow*** *- Daniel Kahneman*
 
 ***Metamorphosis*** *- Franz Kafka*
 
@@ -384,11 +396,11 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Philosophy of Language*** *- William Lycan*
 
-***A Brief History Of Time*** *- Stephen Hawking (Second Read)*
+***A Brief History Of Time*** *- Stephen Hawking*
 
 ***Quiet: The Power of Introverts in a World That Can’t Stop Talking*** *- Susan Cain*
 
-***How To Win Friends and Influence People*** *- Dale Carnegie (Second Read)*
+***How To Win Friends and Influence People*** *- Dale Carnegie*
 
 ***Salt, Sugar, Fat*** *- Michael Moss*
 
