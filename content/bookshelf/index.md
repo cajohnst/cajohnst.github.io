@@ -117,13 +117,28 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***A General Introduction to Psychoanalysis*** *- Sigmund Freud*
 
-***Civilization and Its Contents*** *- Sigmund Freud*
+***Civilization and its Discontents*** *- Sigmund Freud*
 
 ***The Story Paradox: How Our Love of Storytelling Builds Societies and Tears them Down*** *- Jonathan Gottschall*
 
 ***Poetics*** *- Aristotle*
 
 ***The Eden Project*** *- James Hollis*
+
+***Cosmicomics*** *- Italo Calvino*
+
+***Under Saturn's Shadow: The Wounding and Healing of Men*** *- James Hollis*
+
+***What Life Should Mean to You*** *- Alfred Adler*
+
+***The Essential Jung*** *- Carl Jung, selected and introduced by Anthony Storr*
+
+***Faust*** *- Johann Wolfgang von Goethe*
+
+***Mythology: Timeless Tales of Gods and Heroes*** *- Edith Hamilton*
+
+***Childhood and Society*** *- Erik Erikson*
+
 
 <br>
 <h2>
