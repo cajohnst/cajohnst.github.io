@@ -139,6 +139,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Childhood and Society*** *- Erik Erikson*
 
+***The History of Western Philosophy*** *- Bertrand Russell*
+
 
 <br>
 <h2>
