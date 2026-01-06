@@ -3,6 +3,13 @@ layout: page
 title: Bookshelf
 background: '/img/large/loose_rocks_ahead.jpeg'
 ---
+
+<h2>
+    <i>2026 reads</i>
+</h2>
+
+***Invisible Cities*** *- Italo Calvino*
+
 <h2>
     <i>2025 reads</i>
 </h2>
@@ -140,6 +147,10 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 ***Childhood and Society*** *- Erik Erikson*
 
 ***The History of Western Philosophy*** *- Bertrand Russell*
+
+***The Castle*** *- Franz Kafka*
+
+***The Critique of Pure Reason*** *- Immanuel Kant*
 
 
 <br>
