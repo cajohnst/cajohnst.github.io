@@ -10,6 +10,13 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Invisible Cities*** *- Italo Calvino*
 
+***The Creation: An Appeal to Save Life on Earth*** *- E.O. Wilson*
+
+***The Social Conquest of Earth*** *- E.O. Wilson*
+
+***The World as Will and Representation*** *- Arthur Schopenhauer*
+
+<br>
 <h2>
     <i>2025 reads</i>
 </h2>
@@ -255,7 +262,7 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Capital Gains, Minimal Taxes*** *- Kaye Thomas*
 
-***The Creation: An Appeal to Save Life on Earth*** *- Edward Wilson*
+***The Creation: An Appeal to Save Life on Earth*** *- E.O. Wilson*
 
 ***Discipline and Punish*** *- Michel Foucault*
 
