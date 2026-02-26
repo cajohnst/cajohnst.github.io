@@ -16,6 +16,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The World as Will and Representation*** *- Arthur Schopenhauer*
 
+***The Meaning of Human Existence*** *- E.O. Wilson*
+
 <br>
 <h2>
     <i>2025 reads</i>
