@@ -18,6 +18,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***The Meaning of Human Existence*** *- E.O. Wilson*
 
+***On the Genealogy of Morality*** *-Friedrich Nietzsche*
+
 <br>
 <h2>
     <i>2025 reads</i>
