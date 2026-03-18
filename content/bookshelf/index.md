@@ -20,6 +20,8 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***On the Genealogy of Morality*** *-Friedrich Nietzsche*
 
+***Half-Earth: Our Planet's Fight for Life*** *- E.O. Wilson*
+
 <br>
 <h2>
     <i>2025 reads</i>
