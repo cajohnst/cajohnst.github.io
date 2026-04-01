@@ -22,6 +22,12 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Half-Earth: Our Planet's Fight for Life*** *- E.O. Wilson*
 
+***Answer to Job*** *- Carl Jung*
+
+***Candide*** *- Voltaire*
+
+***Madame Bovary*** *- Gustave Flaubert*
+
 <br>
 <h2>
     <i>2025 reads</i>
