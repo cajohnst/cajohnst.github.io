@@ -28,6 +28,14 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Madame Bovary*** *- Gustave Flaubert*
 
+***Beyond Good and Evil*** *- Friedrich Nietzsche*
+
+***Letters on the English*** *- Voltaire*
+
+***Treatise on Tolerance*** *- Voltaire*
+
+***Magic Mountain*** *- Thomas Mann*
+
 <br>
 <h2>
     <i>2025 reads</i>
