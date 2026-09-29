@@ -36,6 +36,10 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Magic Mountain*** *- Thomas Mann*
 
+***Nausea*** *- Jean Paul Sartre*
+
+***Being and Nothingness*** *- Jean Paul Sartre*
+
 <br>
 <h2>
     <i>2025 reads</i>
