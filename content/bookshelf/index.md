@@ -40,7 +40,7 @@ background: '/img/large/loose_rocks_ahead.jpeg'
 
 ***Being and Nothingness*** *- Jean Paul Sartre*
 
-*** The Phenomenon of Life*** *- Hans Jonas*
+***The Phenomenon of Life*** *- Hans Jonas*
 
 <br>
 <h2>
